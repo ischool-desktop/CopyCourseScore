@@ -1,0 +1,9 @@
+D:\GitHub2\CopyCourseScore\CopyCourseScore\bin\Debug\CopyCourseScore.dll
+D:\GitHub2\CopyCourseScore\CopyCourseScore\bin\Debug\CopyCourseScore.pdb
+D:\GitHub2\CopyCourseScore\CopyCourseScore\obj\Debug\CopyCourseScore.csprojResolveAssemblyReference.cache
+D:\GitHub2\CopyCourseScore\CopyCourseScore\obj\Debug\CopyCourseScore.MainForm.resources
+D:\GitHub2\CopyCourseScore\CopyCourseScore\obj\Debug\CopyCourseScore.Properties.Resources.resources
+D:\GitHub2\CopyCourseScore\CopyCourseScore\obj\Debug\CopyCourseScore.csproj.GenerateResource.Cache
+D:\GitHub2\CopyCourseScore\CopyCourseScore\obj\Debug\CopyCourseScore.dll
+D:\GitHub2\CopyCourseScore\CopyCourseScore\obj\Debug\CopyCourseScore.pdb
+D:\GitHub2\CopyCourseScore\CopyCourseScore\obj\Debug\CopyCourseScore.AskForm.resources
